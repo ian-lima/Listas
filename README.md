@@ -1,16 +1,11 @@
-🤖Manipulando listas🤖
+<h1> 👨‍🏫 Manipulando Listas 👨‍🏫 </h1>
 
-Situação: Desenvolvido✅
+> Status: Developed ✅
 
+### 🇧🇷 Portuguese: Manipulação de Listas.
+### 🇺🇸 English: List manipulation.
+### 🇪🇸 Spain: Manipulación de listas.
 
+## Technologies used 💻:
 
-🇧🇷Português: Manipulação de listas.
-
-🇺🇸English: List manipulation.
-
-🇪🇸Spain: Manipulación de listas.
-
-
-
-Tecnologias usadas💻:
-Python 3.9
++ Python 3.9
